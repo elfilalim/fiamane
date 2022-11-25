@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fiamane/static/css/main.f898480b.css",
+    "main.js": "/fiamane/static/js/main.12dba19f.js",
+    "static/js/787.67b59e06.chunk.js": "/fiamane/static/js/787.67b59e06.chunk.js",
+    "index.html": "/fiamane/index.html",
+    "main.f898480b.css.map": "/fiamane/static/css/main.f898480b.css.map",
+    "main.12dba19f.js.map": "/fiamane/static/js/main.12dba19f.js.map",
+    "787.67b59e06.chunk.js.map": "/fiamane/static/js/787.67b59e06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f898480b.css",
+    "static/js/main.12dba19f.js"
+  ]
+}
